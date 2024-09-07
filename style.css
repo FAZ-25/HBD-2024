@@ -20,7 +20,7 @@ body{
     background-color: black;
 }
 .greetings1, .greetings2{
-    font-size: 3.5rem;
+    font-size: 3rem;
     font-weight: 900;
 }
 .greetings1 > span{
